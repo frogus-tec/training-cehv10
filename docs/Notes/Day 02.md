@@ -42,6 +42,9 @@ TCP/IP 3way handshake
 
 ## Module 05
 
+CVSS - Common Vulnerability Scoring System
+CVE - Common Vulnerabilities and Exposures
+
 ### Summary
 To READ:
 ```bash
@@ -61,6 +64,7 @@ To SKIP:
 Learned new things:
 ```
 https://flutter.dev/ - Android APPS
+OWASP Broken Web Applications Project
 
 ```
 
